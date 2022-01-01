@@ -1,0 +1,22 @@
+{
+  "addon": {
+    "name": "Terraria Craft Recipe Viewer",
+    "description": "Simple mod for Terraria Craft that allows viewing of recipes with 'R' and 'U' keys."
+  },
+  "files": [
+    {
+      "sha1": "487c4956b3c02a08e80d8e185353294c7d2b2786",
+      "idev_versions": ["[idev-,)"],
+      "public_versions": ["[12.4.26,)"],
+      "url": "/files/org/zeith/tcrecipeview/TerrariaCraftRecipeViewer-1.12.2-4.1.1.jar",
+      "timestamp": "1641061781074"
+    },
+    {
+      "sha1": "d9955fd5ef2c88ea85f7800e4ad36ce5ece42b9d",
+      "idev_versions": ["[idev-,)"],
+      "public_versions": ["[12.4.26,)"],
+      "url": "/files/org/zeith/tcrecipeview/TerrariaCraftRecipeViewer-1.12.2-4.1.2.jar",
+      "timestamp": "1641062454269"
+    }
+  ]
+}
