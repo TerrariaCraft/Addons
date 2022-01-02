@@ -1,7 +1,10 @@
 {
   "addon": {
+    "issues_page": "https://github.com/Zeitheron/TerrariaCraftRecipeViewer/issues",
+    "website": "https://www.curseforge.com/minecraft/mc-mods/tc-recipe-viewer",
     "name": "Terraria Craft Recipe Viewer",
-    "description": "Simple mod for Terraria Craft that allows viewing of recipes with 'R' and 'U' keys."
+    "description": "Simple mod for Terraria Craft that allows viewing of recipes with 'R' and 'U' keys.",
+    "authors": ["Zeitheron"]
   },
   "files": [
     {
@@ -17,6 +20,13 @@
       "public_versions": ["[12.4.26,)"],
       "url": "/files/org/zeith/tcrecipeview/TerrariaCraftRecipeViewer-1.12.2-5.1.4.jar",
       "timestamp": "1641078601742"
+    },
+    {
+      "sha1": "a078b132e05f21df9457fb5e3d60b0539af80f7f",
+      "idev_versions": ["[idev-,)"],
+      "public_versions": ["[12.4.26,)"],
+      "url": "/files/org/zeith/tcrecipeview/TerrariaCraftRecipeViewer-1.12.2-5.1.5.jar",
+      "timestamp": "1641142974337"
     }
   ]
 }

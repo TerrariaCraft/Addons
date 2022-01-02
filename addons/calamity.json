@@ -1,7 +1,8 @@
 {
   "addon": {
     "name": "CalamityCraft",
-    "description": "CalamityCraft is a mod that adds content from the tModLoader mod Calamity into Minecraft!"
+    "description": "CalamityCraft is a mod that adds content from the tModLoader mod Calamity into Minecraft!",
+    "authors": ["Ryorama"]
   },
   "files": [
     {
