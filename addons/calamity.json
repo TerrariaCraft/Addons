@@ -1,5 +1,7 @@
 {
   "addon": {
+    "issues_page": "https://github.com/Ryorama/CalamityCraft/issues",
+    "website": "https://www.curseforge.com/minecraft/mc-mods/calamitycraft",
     "name": "CalamityCraft",
     "icon": {
       "sha1": "ae9c0ded11d26de93c5ea32d48315f9318525e88",
@@ -24,11 +26,11 @@
       "timestamp": "1641081762149"
     },
     {
-      "sha1": "96e4a70efeb4721ac8e4cbf4afe6592eee2059a7",
+      "sha1": "41b7c5a95395c8d65ae827c26f5f7fb72a9442d7",
       "idev_versions": ["[idev-,)"],
       "public_versions": ["[12.5.27,)"],
       "url": "/files/ryorama/calamity/CalamityCraft-1.2.jar",
-      "timestamp": "1641241722246"
+      "timestamp": "1641242790722"
     }
   ]
 }
