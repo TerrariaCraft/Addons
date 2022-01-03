@@ -1,0 +1,20 @@
+{
+  "addon": {
+    "issues_page": "https://github.com/Zeitheron/DiscordLAN/issues/",
+    "website": "https://github.com/Zeitheron/DiscordLAN",
+    "name": "Discord LAN",
+    "icon": {
+      "sha1": "fbb470fbac23b9fe306875c753639ab9b7bd3ca7",
+      "path": "/icons/fb/fbb470fbac23b9fe306875c753639ab9b7bd3ca7.png"
+    },
+    "description": "Allows playing together by opening a lobby.",
+    "authors": ["Zeitheron"]
+  },
+  "files": [{
+    "sha1": "99af8b1e5e17c4c80c3f8f90ca727d01b0942fa6",
+    "idev_versions": ["[idev-,)"],
+    "public_versions": ["[12.5.27,)"],
+    "url": "/files/org/zeith/discordlan/DiscordLAN-1.12.2-12.1.2.jar",
+    "timestamp": "1641245158982"
+  }]
+}
