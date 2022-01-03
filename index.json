@@ -1,5 +1,4 @@
 {
   "calamity": "./addons/calamity.json",
-  "discordlan": "./addons/discordlan.json",
   "tcrecipeview": "./addons/tcrecipeview.json"
 }
