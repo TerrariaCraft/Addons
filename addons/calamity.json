@@ -15,6 +15,7 @@
       "sha1": "4ec17ae5c6fbff043b1649f772bba80d5a4b383d",
       "idev_versions": ["[idev-,)"],
       "public_versions": ["[12.5.27,)"],
+      "version": "1.0?",
       "url": "/files/ryorama/calamity/CalamityCraft-1.0.jar",
       "timestamp": "1641073678702"
     },
@@ -22,6 +23,7 @@
       "sha1": "d03e345efa30796607f79dc9c0eb287cf7537ce5",
       "idev_versions": ["[idev-,)"],
       "public_versions": ["[12.5.27,)"],
+      "version": "1.0?",
       "url": "/files/ryorama/calamity/CalamityCraft-1.1.jar",
       "timestamp": "1641081762149"
     },
@@ -29,6 +31,7 @@
       "sha1": "41b7c5a95395c8d65ae827c26f5f7fb72a9442d7",
       "idev_versions": ["[idev-,)"],
       "public_versions": ["[12.5.27,)"],
+      "version": "1.0?",
       "url": "/files/ryorama/calamity/CalamityCraft-1.2.jar",
       "timestamp": "1641242790722"
     }
