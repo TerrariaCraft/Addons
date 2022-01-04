@@ -44,12 +44,12 @@
       "timestamp": "1641143721277"
     },
     {
-      "sha1": "18f0ae691a09df564805de1b130d0f36506381ef",
+      "sha1": "3ebdee1b9c6fa86c2c490cd0eac0350e636b0bc4",
       "idev_versions": ["[idev-,)"],
       "public_versions": ["[12.5.28,12.6)"],
       "version": "5.2.7",
       "url": "/files/org/zeith/tcrecipeview/TerrariaCraftRecipeViewer-1.12.2-5.2.7.jar",
-      "timestamp": "1641313613880"
+      "timestamp": "1641314105049"
     }
   ]
 }
