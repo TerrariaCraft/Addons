@@ -26,6 +26,14 @@
       "version": "5.2.7",
       "url": "/files/org/zeith/tcrecipeview/TerrariaCraftRecipeViewer-1.12.2-5.2.7.jar",
       "timestamp": "1641314105049"
+    },
+    {
+      "sha1": "fceeb91b8d962808f112fb9dbdf9041fdcdd4e88",
+      "idev_versions": ["[idev-,)"],
+      "public_versions": ["[12.5.31,12.6)"],
+      "version": "5.2.8",
+      "url": "/files/org/zeith/tcrecipeview/TerrariaCraftRecipeViewer-1.12.2-5.2.8.jar",
+      "timestamp": "1643232932739"
     }
   ]
 }
