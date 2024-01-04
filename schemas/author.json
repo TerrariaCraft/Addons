@@ -1,29 +1,41 @@
 {
-  "$id": "https://github.com/TerrariaCraft/Addons/blob/master/schemas/addon.json",
-  "$schema": "http://json-schema.org/draft-04/schema#",
-  "type": "object",
-  "properties": {
-    "name": {
-      "type": "string"
-    },
-    "url": {
-      "type": "string",
-      "format": "uri"
-    },
-    "icon": {
-      "type": "string",
-      "format": "uri"
-    },
-    "website": {
-      "type": "string",
-      "format": "uri"
-    },
-    "support": {
-      "type": "string",
-      "format": "uri"
-    }
-  },
-  "required": [
-    "name"
-  ]
+	"$id": "https://github.com/TerrariaCraft/Addons/blob/master/schemas/addon.json",
+	"$schema": "http://json-schema.org/draft-04/schema#",
+	"type": "object",
+	"additionalProperties": false,
+	"required": [
+		"authors"
+	],
+	"properties": {
+		"authors": {
+			"type": "object",
+			"minProperties": 1,
+			"patternProperties": {
+				".*": {
+					"type": "object",
+					"required": [
+						"url"
+					],
+					"properties": {
+						"url": {
+						  "type": "string",
+						  "format": "uri"
+						},
+						"icon": {
+						  "type": "string",
+						  "format": "uri"
+						},
+						"website": {
+						  "type": "string",
+						  "format": "uri"
+						},
+						"support": {
+						  "type": "string",
+						  "format": "uri"
+						}
+					}
+				}
+			}
+		}
+	}
 }
