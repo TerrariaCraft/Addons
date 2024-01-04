@@ -3,10 +3,10 @@ name: Validate Author Schema
 on:
   pull_request:
     paths:
-      - 'manifest/**/author.json'
+      - 'manifest/**/authors.json'
   push:
     paths:
-      - 'manifest/**/author.json'
+      - 'manifest/**/authors.json'
     branches:
       - master
 
@@ -31,7 +31,7 @@ jobs:
       uses: tj-actions/changed-files@v41
       with:
         files: |
-          manifest/**/author.json
+          manifest/**/authors.json
 
     - name: Validate new files against schema
       run: |

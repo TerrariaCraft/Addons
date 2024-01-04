@@ -1,1 +1,6 @@
-{}
+{"elements": {"org.zeith": {"authors": {"authors": {"Zeith": {
+  "website": "https://me.zeith.org",
+  "icon": "https://assets.zeith.org/icons/zeitheron.png",
+  "support": "https://www.patreon.com/zeitheron",
+  "url": "https://github.com/Zeitheron"
+}}}}}}
