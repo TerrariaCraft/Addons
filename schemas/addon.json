@@ -1,0 +1,114 @@
+{
+  "$id": "https://github.com/TerrariaCraft/Addons/blob/master/schemas/addon.json",
+  "$schema": "http://json-schema.org/draft-04/schema#",
+  "type": "object",
+  "properties": {
+    "addon": {
+      "type": "object",
+      "properties": {
+        "issues_page": {
+          "type": "string",
+		  "format": "uri"
+        },
+        "website": {
+          "type": "string",
+		  "format": "uri"
+        },
+        "name": {
+          "type": "string"
+        },
+        "repository": {
+          "type": "string",
+          "pattern": "^[a-zA-Z0-9-_.]+\/[a-zA-Z0-9-_.]+$"
+        },
+        "icon": {
+          "type": "object",
+          "properties": {
+            "sha1": {
+              "type": "string",
+			  "pattern": "^[a-fA-F0-9]{64}$"
+            },
+            "path": {
+              "type": "string",
+			  "format": "uri"
+            }
+          },
+          "required": [
+            "sha1",
+            "path"
+          ]
+        },
+        "description": {
+          "type": "string"
+        },
+        "authors": {
+          "type": "array",
+          "items": [
+            "type": "string"
+          ],
+          "additionalItems": false
+        },
+        "tags": {
+          "type": "array",
+          "items": {
+            "type": "string"
+          },
+          "additionalItems": false
+        },
+      },
+      "required": [
+        "issues_page",
+        "name",
+        "icon",
+        "description",
+        "authors"
+      ]
+    },
+    "files": {
+      "type": "array",
+	  "minItems": 1,
+	  "additionalProperties": false,
+      "items": {
+        "type": "object",
+        "properties": {
+          "sha256": {
+            "type": "string",
+			"pattern": "^[a-fA-F0-9]{64}$"
+          },
+          "idev_versions": {
+            "type": "array",
+            "items": { "type": "string" }
+          },
+          "public_versions": {
+            "type": "array",
+            "items": { "type": "string" }
+          },
+          "version": {
+            "type": "string"
+          },
+          "url": {
+            "type": "string",
+			"format": "uri"
+          },
+          "timestamp": {
+            "type": "string",
+			"pattern": "^[0-9]+$"
+          }
+        },
+        "required": [
+          "sha256",
+          "idev_versions",
+          "public_versions",
+          "version",
+          "url",
+          "timestamp"
+        ],
+		"additionalProperties": false
+      }
+    }
+  },
+  "required": [
+    "addon",
+    "files"
+  ]
+}
