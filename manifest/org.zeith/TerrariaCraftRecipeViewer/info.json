@@ -10,31 +10,5 @@
     },
     "description": "Simple mod for TerrariaCraft that allows viewing of recipes with 'R' and 'U' keys.",
     "authors": ["Zeitheron"]
-  },
-  "files": [
-    {
-      "sha1": "362f964cb77d70045ee1be6855ebe35618ce4825",
-      "idev_versions": ["[idev-,)"],
-      "public_versions": ["[12.4.26,)"],
-      "version": "5.1.6",
-      "url": "/files/org/zeith/tcrecipeview/TerrariaCraftRecipeViewer-1.12.2-5.1.6.jar",
-      "timestamp": "1641143721277"
-    },
-    {
-      "sha1": "3ebdee1b9c6fa86c2c490cd0eac0350e636b0bc4",
-      "idev_versions": ["[idev-,)"],
-      "public_versions": ["[12.5.28,12.6)"],
-      "version": "5.2.7",
-      "url": "/files/org/zeith/tcrecipeview/TerrariaCraftRecipeViewer-1.12.2-5.2.7.jar",
-      "timestamp": "1641314105049"
-    },
-    {
-      "sha1": "fceeb91b8d962808f112fb9dbdf9041fdcdd4e88",
-      "idev_versions": ["[idev-,)"],
-      "public_versions": ["[12.5.31,12.6)"],
-      "version": "5.2.8",
-      "url": "/files/org/zeith/tcrecipeview/TerrariaCraftRecipeViewer-1.12.2-5.2.8.jar",
-      "timestamp": "1643232932739"
-    }
-  ]
+  }
 }
