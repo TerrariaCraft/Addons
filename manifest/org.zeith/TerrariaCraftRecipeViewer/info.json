@@ -2,7 +2,7 @@
   "addon": {
 	"repository": "TerrariaCraft/TerrariaCraftRecipeViewer",
     "website": "https://www.curseforge.com/minecraft/mc-mods/tc-recipe-viewer",
-    "name": "TerrariaCraft Recipe Viewer",
+    "name": "TerrariaCraft RecipeViewer",
     "icon": {
       "sha1": "432f94242f0d263395ecb25ce981fbca378a7b75",
       "path": "/icons/43/432f94242f0d263395ecb25ce981fbca378a7b75.png"

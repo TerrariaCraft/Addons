@@ -24,7 +24,7 @@
           "properties": {
             "sha1": {
               "type": "string",
-			  "pattern": "^[a-fA-F0-9]{64}$"
+			  "pattern": "^[a-fA-F0-9]{40}$"
             },
             "path": {
               "type": "string",
