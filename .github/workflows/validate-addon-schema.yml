@@ -8,7 +8,7 @@ on:
     paths:
       - 'manifest/**/info.json'
     branches:
-      - main
+      - master
 
 jobs:
   validate-mod-info-json:
