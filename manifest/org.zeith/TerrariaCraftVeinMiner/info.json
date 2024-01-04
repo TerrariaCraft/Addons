@@ -1,0 +1,12 @@
+{"addon": {
+  "website": "https://modrinth.com/mod/terrariacraft-veinminer",
+  "name": "TerrariaCraft VeinMiner",
+  "icon": {
+    "sha1": "60235a4b5306bc1ea7db89b3a35033f01f5baeba",
+    "path": "https://raw.githubusercontent.com/TerrariaCraft/TerrariaCraft-VeinMiner/master/icon.png"
+  },
+  "description": "Enables vein mining for ores with TerrariaCraft when holding a button.",
+  "repository": "TerrariaCraft/TerrariaCraft-VeinMiner",
+  "authors": ["Zeith"],
+  "tags": ["Utility"]
+}}
