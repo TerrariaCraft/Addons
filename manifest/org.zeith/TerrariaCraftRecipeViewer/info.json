@@ -1,14 +1,12 @@
-{
-  "addon": {
-	"repository": "TerrariaCraft/TerrariaCraftRecipeViewer",
-    "website": "https://www.curseforge.com/minecraft/mc-mods/tc-recipe-viewer",
-    "name": "TerrariaCraft RecipeViewer",
-    "icon": {
-      "sha1": "432f94242f0d263395ecb25ce981fbca378a7b75",
-      "path": "https://raw.githubusercontent.com/TerrariaCraft/TerrariaCraftRecipeViewer/master/icon.png"
-    },
-    "description": "Simple mod for TerrariaCraft that allows viewing of recipes with 'R' and 'U' keys.",
-    "authors": [ "Zeith" ],
-	"tags": [ "Utility" ]
-  }
-}
+{"addon": {
+  "website": "https://www.curseforge.com/minecraft/mc-mods/tc-recipe-viewer",
+  "name": "TerrariaCraft RecipeViewer",
+  "icon": {
+    "sha1": "60235a4b5306bc1ea7db89b3a35033f01f5baeba",
+    "path": "https://raw.githubusercontent.com/TerrariaCraft/TerrariaCraftRecipeViewer/master/icon.png"
+  },
+  "description": "Simple mod for TerrariaCraft that allows viewing of recipes with 'R' and 'U' keys.",
+  "repository": "TerrariaCraft/TerrariaCraftRecipeViewer",
+  "authors": ["Zeith"],
+  "tags": ["Utility"]
+}}
