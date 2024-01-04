@@ -45,9 +45,7 @@
         },
         "authors": {
           "type": "array",
-          "items": [
-            "type": "string"
-          ],
+          "items": { "type": "string" },
           "additionalItems": false
         },
         "tags": {
@@ -56,7 +54,7 @@
             "type": "string"
           },
           "additionalItems": false
-        },
+        }
       },
       "required": [
         "issues_page",
