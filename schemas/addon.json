@@ -8,10 +8,6 @@
       "type": "object",
 	  "additionalItems": false,
       "properties": {
-        "issues_page": {
-          "type": "string",
-		  "format": "uri"
-        },
         "website": {
           "type": "string",
 		  "format": "uri"
@@ -57,7 +53,6 @@
         }
       },
       "required": [
-        "issues_page",
         "name",
         "icon",
         "description",
