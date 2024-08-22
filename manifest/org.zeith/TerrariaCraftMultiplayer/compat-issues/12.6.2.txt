@@ -1,0 +1,7 @@
+WARNING: This list of errors may not be complete. This is what was auto-detected by TC manifest generator.
+
+! Start of report !
+
+Unable to find method org.zeith.terraria.api.client.gui.UVs.fullTexture(Lnet/minecraft/util/ResourceLocation;)Lcom/zeitheron/hammercore/client/utils/UV; (from org.zeith.tcmp.friendship.gui.lst.GuiFriendList initMainMenu)
+
+! End of report !
