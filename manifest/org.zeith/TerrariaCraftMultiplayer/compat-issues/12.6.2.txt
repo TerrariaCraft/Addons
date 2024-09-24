@@ -2,6 +2,8 @@ WARNING: This list of errors may not be complete. This is what was auto-detected
 
 ! Start of report !
 
+Missing type org.zeith.terraria.common.data.player.characters.CharacterSelectionResult (from org.zeith.tcmp.friendship.gui.lst.GuiFriendList lambda$null$1) (from org.zeith.tcmp.friendship.gui.lst.GuiFriendList lambda$null$1)
 Unable to find method org.zeith.terraria.api.client.gui.UVs.fullTexture(Lnet/minecraft/util/ResourceLocation;)Lcom/zeitheron/hammercore/client/utils/UV; (from org.zeith.tcmp.friendship.gui.lst.GuiFriendList initMainMenu)
+Missing type org.zeith.terraria.client.player.characters.ClientActiveCharacterData (from org.zeith.tcmp.friendship.gui.lst.GuiFriendList lambda$initMainMenu$2) (from org.zeith.tcmp.friendship.gui.lst.GuiFriendList lambda$initMainMenu$2)
 
 ! End of report !
