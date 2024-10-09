@@ -1,0 +1,8 @@
+WARNING: This list of errors may not be complete. This is what was auto-detected by TC manifest generator.
+
+! Start of report !
+
+Unable to find field org.zeith.terraria.client.gui.oow.GuiTerrariaMainMenu.panoramaTime (from org.zeith.tcmp.friendship.gui.lst.GuiFriendList <init>)
+Unable to find field org.zeith.terraria.client.gui.oow.GuiTerrariaMainMenu.panoramaTime (from org.zeith.tcmp.friendship.gui.lst.GuiFriendList close)
+
+! End of report !
