@@ -10,3 +10,5 @@ Unable to find field org.zeith.terraria.common.data.player.PlayerDataTC.keyboard
 Missing type org.zeith.terraria.common.data.player.KeyMapTC$KeyButtonTC (from org.zeith.tcvm.proxy.ClientProxy setup) (from org.zeith.tcvm.proxy.ClientProxy setup)
 
 ! End of report !
+
+! End of report !
