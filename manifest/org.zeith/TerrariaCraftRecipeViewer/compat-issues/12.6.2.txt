@@ -1,0 +1,11 @@
+WARNING: This list of errors may not be complete. This is what was auto-detected by TC manifest generator.
+
+! Start of report !
+
+Missing type org.zeith.terraria.common.data.player.KeyButtonTC (from org.zeith.tcrv.TCRecipeViewer VIEW_USAGES) (from org.zeith.tcrv.TCRecipeViewer VIEW_USAGES)
+Missing type org.zeith.terraria.common.data.player.KeyButtonTC (from org.zeith.tcrv.TCRecipeViewer BACKTRACK_RECIPES) (from org.zeith.tcrv.TCRecipeViewer BACKTRACK_RECIPES)
+Missing type org.zeith.terraria.common.data.player.KeyButtonTC (from org.zeith.tcrv.TCRecipeViewer VIEW_RECIPES) (from org.zeith.tcrv.TCRecipeViewer VIEW_RECIPES)
+Missing type org.zeith.terraria.common.data.player.KeyButtonTC (from org.zeith.tcrv.TCRecipeViewer <clinit>) (from org.zeith.tcrv.TCRecipeViewer <clinit>)
+Missing type org.zeith.terraria.common.data.player.KeyButtonTC (from org.zeith.tcrv.proxy.ClientProxy setup) (from org.zeith.tcrv.proxy.ClientProxy setup)
+
+! End of report !
