@@ -2,7 +2,7 @@
   "website": "https://www.curseforge.com/minecraft/mc-mods/tc-recipe-viewer",
   "name": "TerrariaCraft RecipeViewer",
   "icon": {
-    "sha1": "60235a4b5306bc1ea7db89b3a35033f01f5baeba",
+    "sha1": "78fb38f212fa49029aff24c669a39648d9b4e68b",
     "path": "https://raw.githubusercontent.com/TerrariaCraft/TerrariaCraftRecipeViewer/master/icon.png"
   },
   "description": "Simple mod for TerrariaCraft that allows viewing of recipes with 'R' and 'U' keys.",
