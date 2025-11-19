@@ -2,7 +2,7 @@
   "website": "https://github.com/TerrariaCraft/Multiplayer",
   "name": "TerrariaCraft Multiplayer",
   "icon": {
-    "sha1": "78fb38f212fa49029aff24c669a39648d9b4e68b",
+    "sha1": "245718abefa628a49047ca47cbb9c116dd895fa4",
     "path": "https://raw.githubusercontent.com/TerrariaCraft/Multiplayer/master/icon.png"
   },
   "description": "Multiplayer capability for TerrariaCraft based on Cloudflared, bypassing port forwarding problems.",
