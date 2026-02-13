@@ -1,0 +1,33 @@
+WARNING: This list of errors may not be complete. This is what was auto-detected by TC manifest generator.
+
+! Start of report !
+
+Missing type org.zeith.terraria.api.mod.ITerrariaMod (from class signature org.zeith.tcmp.TCMultiplayer) (from class signature org.zeith.tcmp.TCMultiplayer)
+Missing type org.zeith.terraria.api.mod.ITerrariaMod (from org.zeith.tcmp.TCMultiplayer construction) (from org.zeith.tcmp.TCMultiplayer construction)
+Missing type org.zeith.terraria.client.gui.api.GuiBaseMainBG (from class signature org.zeith.tcmp.friendship.gui.connect.GuiEstablishingConnection) (from class signature org.zeith.tcmp.friendship.gui.connect.GuiEstablishingConnection)
+Missing type org.zeith.terraria.client.gui.api.GuiBaseMainBG (from org.zeith.tcmp.friendship.gui.connect.GuiEstablishingConnection <init>) (from org.zeith.tcmp.friendship.gui.connect.GuiEstablishingConnection <init>)
+Missing type org.zeith.terraria.client.util.BlinkingText (from org.zeith.tcmp.friendship.gui.lst.FriendGuiEntry func_192634_a) (from org.zeith.tcmp.friendship.gui.lst.FriendGuiEntry func_192634_a)
+Missing type org.zeith.terraria.client.gui.api.GuiBaseMainBG (from class signature org.zeith.tcmp.friendship.gui.lst.GuiFriendList) (from class signature org.zeith.tcmp.friendship.gui.lst.GuiFriendList)
+Missing type org.zeith.terraria.init.SoundsTC (from org.zeith.tcmp.friendship.gui.lst.GuiFriendList initMainMenu) (from org.zeith.tcmp.friendship.gui.lst.GuiFriendList initMainMenu)
+Missing type org.zeith.terraria.client.gui.oow.GuiTerrariaMainMenu (from org.zeith.tcmp.friendship.gui.lst.GuiFriendList <init>) (from org.zeith.tcmp.friendship.gui.lst.GuiFriendList <init>)
+Missing type org.zeith.terraria.init.SoundsTC (from org.zeith.tcmp.friendship.gui.lst.GuiFriendList close) (from org.zeith.tcmp.friendship.gui.lst.GuiFriendList close)
+Missing type org.zeith.terraria.client.player.characters.ClientActiveCharacterData (from org.zeith.tcmp.friendship.gui.lst.GuiFriendList lambda$initMainMenu$2) (from org.zeith.tcmp.friendship.gui.lst.GuiFriendList lambda$initMainMenu$2)
+Missing type org.zeith.terraria.api.client.gui.UVs (from org.zeith.tcmp.friendship.gui.lst.GuiFriendList initMainMenu) (from org.zeith.tcmp.friendship.gui.lst.GuiFriendList initMainMenu)
+Missing type org.zeith.terraria.client.gui.api.GuiBaseMainBG (from org.zeith.tcmp.friendship.gui.lst.GuiFriendList <init>) (from org.zeith.tcmp.friendship.gui.lst.GuiFriendList <init>)
+Missing type org.zeith.terraria.client.gui.mc.buttons.GuiButtonSpriteAndBg (from org.zeith.tcmp.friendship.gui.lst.GuiFriendList initMainMenu) (from org.zeith.tcmp.friendship.gui.lst.GuiFriendList initMainMenu)
+Missing type org.zeith.terraria.init.SoundsTC (from org.zeith.tcmp.friendship.gui.lst.GuiFriendList func_73866_w_) (from org.zeith.tcmp.friendship.gui.lst.GuiFriendList func_73866_w_)
+Missing type org.zeith.terraria.client.gui.mc.buttons.GuiButton (from org.zeith.tcmp.friendship.gui.lst.GuiFriendList func_73866_w_) (from org.zeith.tcmp.friendship.gui.lst.GuiFriendList func_73866_w_)
+Missing type org.zeith.terraria.client.gui.oow.GuiTerrariaMainMenu (from org.zeith.tcmp.friendship.gui.lst.GuiFriendList lambda$null$1) (from org.zeith.tcmp.friendship.gui.lst.GuiFriendList lambda$null$1)
+Missing type org.zeith.terraria.common.data.player.characters.CharacterSelectionResult (from org.zeith.tcmp.friendship.gui.lst.GuiFriendList lambda$null$1) (from org.zeith.tcmp.friendship.gui.lst.GuiFriendList lambda$null$1)
+Missing type org.zeith.terraria.client.gui.oow.GuiTerrariaMainMenu (from org.zeith.tcmp.friendship.gui.lst.GuiFriendList lambda$initMainMenu$2) (from org.zeith.tcmp.friendship.gui.lst.GuiFriendList lambda$initMainMenu$2)
+Missing type org.zeith.terraria.client.gui.oow.GuiTerrariaMainMenu (from org.zeith.tcmp.friendship.gui.lst.GuiFriendList initMainMenu) (from org.zeith.tcmp.friendship.gui.lst.GuiFriendList initMainMenu)
+Missing type org.zeith.terraria.api.client.gui.IButtonCallback (from org.zeith.tcmp.friendship.gui.lst.GuiFriendList initMainMenu) (from org.zeith.tcmp.friendship.gui.lst.GuiFriendList initMainMenu)
+Missing type org.zeith.terraria.client.gui.oow.GuiTerrariaMainMenu (from org.zeith.tcmp.friendship.gui.lst.GuiFriendList close) (from org.zeith.tcmp.friendship.gui.lst.GuiFriendList close)
+Missing type org.zeith.terraria.init.SoundsTC (from org.zeith.tcmp.friendship.gui.lst.GuiFriendList func_73864_a) (from org.zeith.tcmp.friendship.gui.lst.GuiFriendList func_73864_a)
+Missing type org.zeith.terraria.client.gui.oow.GuiTerrariaMainMenu (from org.zeith.tcmp.friendship.gui.lst.GuiFriendList parent) (from org.zeith.tcmp.friendship.gui.lst.GuiFriendList parent)
+Missing type org.zeith.terraria.client.util.BlinkingText (from org.zeith.tcmp.friendship.gui.req.BaseFriendRequest func_192634_a) (from org.zeith.tcmp.friendship.gui.req.BaseFriendRequest func_192634_a)
+Missing type org.zeith.terraria.client.gui.api.GuiBaseMainBG (from class signature org.zeith.tcmp.friendship.gui.req.GuiFriendRequests) (from class signature org.zeith.tcmp.friendship.gui.req.GuiFriendRequests)
+Missing type org.zeith.terraria.client.gui.api.GuiBaseMainBG (from org.zeith.tcmp.friendship.gui.req.GuiFriendRequests <init>) (from org.zeith.tcmp.friendship.gui.req.GuiFriendRequests <init>)
+Missing type org.zeith.terraria.init.SoundsTC (from org.zeith.tcmp.friendship.gui.req.GuiFriendRequests func_73864_a) (from org.zeith.tcmp.friendship.gui.req.GuiFriendRequests func_73864_a)
+
+! End of report !
