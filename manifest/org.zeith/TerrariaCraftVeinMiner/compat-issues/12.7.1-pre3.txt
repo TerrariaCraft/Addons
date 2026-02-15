@@ -2,11 +2,11 @@ WARNING: This list of errors may not be complete. This is what was auto-detected
 
 ! Start of report !
 
+Missing type org.zeith.terraria.common.data.player.KeyMapTC (from org.zeith.tcvm.TCVeinMiner breakBlock) (from org.zeith.tcvm.TCVeinMiner breakBlock)
 Missing type org.zeith.terraria.common.data.player.KeyMapTC$KeyButtonTC (from org.zeith.tcvm.TCVeinMiner <clinit>) (from org.zeith.tcvm.TCVeinMiner <clinit>)
+Missing type org.zeith.terraria.common.data.player.KeyMapTC$KeyButtonTC (from org.zeith.tcvm.TCVeinMiner breakBlock) (from org.zeith.tcvm.TCVeinMiner breakBlock)
 Missing type org.zeith.terraria.common.data.player.KeyMapTC$KeyButtonTC (from org.zeith.tcvm.TCVeinMiner VEIN_MINE) (from org.zeith.tcvm.TCVeinMiner VEIN_MINE)
-Unable to find field org.zeith.terraria.common.data.player.PlayerDataTC.keyboard (from org.zeith.tcvm.VeinMiningHooks breakBlock)
-Missing type org.zeith.terraria.common.data.player.KeyMapTC (from org.zeith.tcvm.VeinMiningHooks breakBlock) (from org.zeith.tcvm.VeinMiningHooks breakBlock)
-Missing type org.zeith.terraria.common.data.player.KeyMapTC$KeyButtonTC (from org.zeith.tcvm.VeinMiningHooks breakBlock) (from org.zeith.tcvm.VeinMiningHooks breakBlock)
+Unable to find field org.zeith.terraria.common.data.player.PlayerDataTC.keyboard (from org.zeith.tcvm.TCVeinMiner breakBlock)
 Missing type org.zeith.terraria.common.data.player.KeyMapTC$KeyButtonTC (from org.zeith.tcvm.proxy.ClientProxy setup) (from org.zeith.tcvm.proxy.ClientProxy setup)
 
 ! End of report !
