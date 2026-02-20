@@ -2,6 +2,14 @@ WARNING: This list of errors may not be complete. This is what was auto-detected
 
 ! Start of report !
 
+Missing type org.zeith.terraria.api.mod.ITerrariaMod (from class signature org.zeith.tcrv.TCRecipeViewer) (from class signature org.zeith.tcrv.TCRecipeViewer)
+Missing type org.zeith.terraria.utils.forge.DeferredRegistries (from org.zeith.tcrv.TCRecipeViewer <init>) (from org.zeith.tcrv.TCRecipeViewer <init>)
+Missing type org.zeith.terraria.common.data.player.KeyMapTC$KeyButtonTC (from org.zeith.tcrv.TCRecipeViewer VIEW_USAGES) (from org.zeith.tcrv.TCRecipeViewer VIEW_USAGES)
+Missing type org.zeith.terraria.utils.forge.DeferredRegistries (from org.zeith.tcrv.TCRecipeViewer getRegistries) (from org.zeith.tcrv.TCRecipeViewer getRegistries)
+Missing type org.zeith.terraria.common.data.player.KeyMapTC$KeyButtonTC (from org.zeith.tcrv.TCRecipeViewer VIEW_RECIPES) (from org.zeith.tcrv.TCRecipeViewer VIEW_RECIPES)
+Missing type org.zeith.terraria.common.data.player.KeyMapTC$KeyButtonTC (from org.zeith.tcrv.TCRecipeViewer BACKTRACK_RECIPES) (from org.zeith.tcrv.TCRecipeViewer BACKTRACK_RECIPES)
+Missing type org.zeith.terraria.common.data.player.KeyMapTC$KeyButtonTC (from org.zeith.tcrv.TCRecipeViewer <clinit>) (from org.zeith.tcrv.TCRecipeViewer <clinit>)
+Missing type org.zeith.terraria.utils.forge.DeferredRegistries (from org.zeith.tcrv.TCRecipeViewer registries) (from org.zeith.tcrv.TCRecipeViewer registries)
 Missing type org.zeith.terraria.api.data.DataAttachment (from org.zeith.tcrv.api.RecipeRestriction attachRestriction) (from org.zeith.tcrv.api.RecipeRestriction attachRestriction)
 Missing type org.zeith.terraria.api.crafting.Recipe (from org.zeith.tcrv.api.RecipeRestriction passesRestriction) (from org.zeith.tcrv.api.RecipeRestriction passesRestriction)
 Missing type org.zeith.terraria.api.crafting.Recipe (from org.zeith.tcrv.api.RecipeRestriction getRestriction) (from org.zeith.tcrv.api.RecipeRestriction getRestriction)
@@ -11,8 +19,6 @@ Missing type org.zeith.terraria.common.data.player.PlayerDataTC (from org.zeith.
 Missing type org.zeith.terraria.api.crafting.ItemViewPanel (from class signature org.zeith.tcrv.client.TCRVItemPanel) (from class signature org.zeith.tcrv.client.TCRVItemPanel)
 Missing type org.zeith.terraria.api.crafting.ItemViewPanel (from org.zeith.tcrv.client.TCRVItemPanel <init>) (from org.zeith.tcrv.client.TCRVItemPanel <init>)
 Missing type org.zeith.terraria.api.crafting.ItemViewPanel (from org.zeith.tcrv.client.TCRVItemPanel getStackUnderMouseInItemPanel) (from org.zeith.tcrv.client.TCRVItemPanel getStackUnderMouseInItemPanel)
-Missing type org.zeith.terraria.net.util.Net (from org.zeith.tcrv.client.TCRVItemPanel showRecipes) (from org.zeith.tcrv.client.TCRVItemPanel showRecipes)
-Missing type org.zeith.terraria.net.util.Net (from org.zeith.tcrv.client.TCRVItemPanel showUses) (from org.zeith.tcrv.client.TCRVItemPanel showUses)
 Missing type org.zeith.terraria.client.gui.api.widget.WidgetBase (from class signature org.zeith.tcrv.client.WidgetShowRecipes) (from class signature org.zeith.tcrv.client.WidgetShowRecipes)
 Missing type org.zeith.terraria.api.crafting.ItemViewPanel (from org.zeith.tcrv.client.WidgetShowRecipes mouseClick) (from org.zeith.tcrv.client.WidgetShowRecipes mouseClick)
 Missing type org.zeith.terraria.api.tooltip.TooltipBody (from org.zeith.tcrv.client.WidgetShowRecipes drawWidget) (from org.zeith.tcrv.client.WidgetShowRecipes drawWidget)
@@ -41,10 +47,5 @@ Missing type org.zeith.terraria.api.crafting.Recipe (from org.zeith.tcrv.net.Pac
 Missing type org.zeith.terraria.common.data.player.PlayerDataTC (from org.zeith.tcrv.net.PacketShowRecipes lambda$create$1) (from org.zeith.tcrv.net.PacketShowRecipes lambda$create$1)
 Missing type org.zeith.terraria.api.crafting.ItemViewPanel (from org.zeith.tcrv.proxy.ClientProxy setup) (from org.zeith.tcrv.proxy.ClientProxy setup)
 Missing type org.zeith.terraria.common.data.player.KeyMapTC$KeyButtonTC (from org.zeith.tcrv.proxy.ClientProxy setup) (from org.zeith.tcrv.proxy.ClientProxy setup)
-Missing type org.zeith.terraria.api.mod.ITerrariaMod (from class signature org.zeith.tcrv.TCRecipeViewer) (from class signature org.zeith.tcrv.TCRecipeViewer)
-Missing type org.zeith.terraria.common.data.player.KeyMapTC$KeyButtonTC (from org.zeith.tcrv.TCRecipeViewer VIEW_USAGES) (from org.zeith.tcrv.TCRecipeViewer VIEW_USAGES)
-Missing type org.zeith.terraria.common.data.player.KeyMapTC$KeyButtonTC (from org.zeith.tcrv.TCRecipeViewer VIEW_RECIPES) (from org.zeith.tcrv.TCRecipeViewer VIEW_RECIPES)
-Missing type org.zeith.terraria.common.data.player.KeyMapTC$KeyButtonTC (from org.zeith.tcrv.TCRecipeViewer BACKTRACK_RECIPES) (from org.zeith.tcrv.TCRecipeViewer BACKTRACK_RECIPES)
-Missing type org.zeith.terraria.common.data.player.KeyMapTC$KeyButtonTC (from org.zeith.tcrv.TCRecipeViewer <clinit>) (from org.zeith.tcrv.TCRecipeViewer <clinit>)
 
 ! End of report !
