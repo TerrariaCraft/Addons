@@ -1,0 +1,6 @@
+{
+	"gradle.properties": {
+		"jb_annotations": "24.0.1",
+		"lombok": "1.18.34"
+	}
+}
